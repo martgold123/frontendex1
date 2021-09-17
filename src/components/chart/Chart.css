@@ -1,0 +1,42 @@
+.chart{
+    margin-top: 20px;
+    height: 471px;
+    width: 944px;
+    background-color: #333333;
+}
+
+.Respondsive{
+    padding-top: 100px;
+}
+
+.fontSize{
+    font-size: 10px;
+}
+
+.giongnhau{
+    display: flex;
+    font-size: 20px;
+    justify-content: space-evenly;
+    padding-top: 30px;
+    color: white;
+}
+
+.greenWrapper, .redWrapper{
+    display: flex;
+    align-items: center;
+}
+
+.redLine{
+    height: 1px;
+    width: 40px;
+    margin-right: 6px;
+    background-color: red;
+
+}
+
+.greenLine{
+    height: 1px;
+    width: 40px;
+    margin-right: 6px;
+    background-color: green;
+}

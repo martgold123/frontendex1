@@ -1,0 +1,48 @@
+.featured{
+    display: flex;
+    justify-content: space-between;
+}
+
+.featuredItem{
+    flex: 1;
+    margin: 0px 10px;
+    border-radius: 10px;
+    width: 180px;
+    height: 95px;
+}
+
+.featureItemColor1{
+    background-color: blue;
+}
+
+.featureItemColor2{
+    background-color: orange;
+}
+
+.featureItemColor3{
+    background-color:green;
+}
+
+.featureItemColor4{
+    background-color:red;
+}
+
+.featureIcon{
+    font-size: 14px;
+    margin-left: 5px;
+    color: white;
+}
+
+.featuredTittle{
+    font-size: 20px;
+    margin-left: 5px;
+    color: white;
+}
+
+.featuredCameraNumber{
+    font-size: 30px;
+    font-weight: 600;
+    margin-left: 32px;
+    color: white;
+    
+}
